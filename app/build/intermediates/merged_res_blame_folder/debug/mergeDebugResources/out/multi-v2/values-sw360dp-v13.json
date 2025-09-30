@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dive.weatherwatch.app-mergeDebugResources-77:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ybs12\\.gradle\\caches\\transforms-4\\c30394f994ed6a7d46986336c90908de\\transformed\\preference-1.1.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "71",
+                        "endOffsets": "122"
+                    }
+                }
+            ]
+        }
+    ]
+}

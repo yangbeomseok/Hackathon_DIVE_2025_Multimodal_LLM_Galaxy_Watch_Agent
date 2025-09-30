@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+drawable heart
+drawable ic_launcher
+drawable loading
+drawable logo_white
+drawable logo_white1
+drawable talk1
+drawable talk2
+mipmap bounce_exp
+mipmap check
+mipmap clear_morning_day
+mipmap clear_night
+mipmap cloudy_morning_day
+mipmap cloudy_night
+mipmap gps_logo
+mipmap heart
+mipmap heart_background
+mipmap logo_clear
+mipmap logo_white
+mipmap mulddae_ex_2
+mipmap rainy_morning_day
+mipmap rainy_night
+mipmap talk1
+mipmap talk2
+mipmap voice_fishing_logo
+mipmap voice_fishing_logo_1
+mipmap water
+mipmap weather
+string app_name
+string hello_world
+xml network_security_config

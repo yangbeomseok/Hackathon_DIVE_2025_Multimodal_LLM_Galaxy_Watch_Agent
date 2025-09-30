@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.dive.weatherwatch.app-mergeDebugResources-77:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ybs12\\.gradle\\caches\\transforms-4\\99624a9f0ce08f25886703b06cf1ce5b\\transformed\\work-runtime-2.9.0\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ybs12\\.gradle\\caches\\transforms-4\\b5066191f82a17ba21fffd7c2b826ec2\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,22,36,37,38,41,45,46,47,48",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "184,319,454,529,616,1354,2104,2223,2350,2572,2796,2911,3018,3131",
+                        "endLines": "4,5,6,7,21,35,36,37,40,44,45,46,47,51",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "314,449,524,611,1349,2099,2218,2345,2567,2791,2906,3013,3126,3356"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ybs12\\.gradle\\caches\\transforms-4\\8fdd988549822988320212032061c099\\transformed\\jetified-wearable-2.9.0\\res\\values-v23\\values.xml",
+                    "from": {
+                        "startLines": "4,8,12,20,23",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "211,373,537,938,1079",
+                        "endLines": "7,11,19,22,24",
+                        "endColumns": "8,8,8,8,8",
+                        "endOffsets": "372,536,937,1078,1178"
+                    },
+                    "to": {
+                        "startLines": "52,56,60,68,71",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "3361,3527,3695,4100,4245",
+                        "endLines": "55,59,67,70,72",
+                        "endColumns": "8,8,8,8,8",
+                        "endOffsets": "3522,3690,4095,4240,4344"
+                    }
+                }
+            ]
+        }
+    ]
+}
